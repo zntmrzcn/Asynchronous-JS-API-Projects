@@ -1,2 +1,6 @@
 # Asynchronous-API-Projects
-![github](https://user-images.githubusercontent.com/116754673/207142805-5cc8cd21-a989-4e34-b683-5c52d91f7b4b.jpg)
+3 similar project 3 different usage methods.
+
+1. translateAPI using prototype,ajax,callback
+2. exchangeAPI using fetch,promise
+3. githubAPI using async,await 
