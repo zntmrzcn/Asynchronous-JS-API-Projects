@@ -5,4 +5,5 @@
 2. `exchangeAPI` using fetch, promise
 3. `githubAPI` using async, await 
 
-_Web Geliştirme Örnek #5_
+
+>_Web Geliştirme Örnek #5_
