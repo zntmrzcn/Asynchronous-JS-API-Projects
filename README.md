@@ -1,4 +1,4 @@
-# Asynchronous-API-Projects
+# Asynchronous-API-Projects  (Web Geliştirme Örnek #5)
 3 similar project 3 different usage methods.
 
 1. `translateAPI` using prototype, ajax, callback
